@@ -4,3 +4,4 @@ console.log(name);
 
 //after trim
 console.log(name.trim());
+export {};
